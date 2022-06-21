@@ -212,7 +212,7 @@
 }
 
 .tarjetaBackgrounMalbec {
-    background-image: url('../img/Backgroud/backgroundMalbec.jpg');
+    background-image: url("../img/Backgroud/backgroundMalbec.jpg");
 }
 
 .tarjetaBackgrounCabernet {
