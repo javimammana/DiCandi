@@ -23,7 +23,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    background-image: url(../img/Backgroud/backgroud.jpg);
+    background-image: url('../img/backgroud/backgroud.jpg');
     background-size: 100%;
     background-attachment: fixed;
     padding: 10%;
