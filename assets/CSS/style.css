@@ -203,6 +203,7 @@
 /*backgroud Productos Servicios*/
 
 .tarjetaBackgroun {
+    width: 100%;
     background-size: cover;
     background-position: center;
     padding: 10%;
