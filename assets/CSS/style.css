@@ -290,7 +290,7 @@
 .tarjetaTienda {
     width: 300px;
     background-color: #f3f2ee72;
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
     display: flex;
     flex-direction: column;
@@ -304,18 +304,18 @@
 
 .tarjetaTiendaDesc {
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .tarjetaTiendaImg {
     width: 80%;
-    margin: 15px;
+    margin: 10px;
 }
 
 .tarjetaTiendaPrecio {
     width: 100%;
     font-size: 25px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     color: #86212A;
     display: flex;
     justify-content: end;
@@ -506,7 +506,7 @@
 /*  tienda  */
 
     .tarjetaTienda {
-        width: 300px;
+        width: 250px;
     }
 
     .backgrounBox {
