@@ -212,27 +212,27 @@
 }
 
 .tarjetaBackgrounMalbec {
-    background-image: url("../img/Backgroud/backgroundMalbec.jpg");
+    background-image: url('../img/backgroud/backgroundMalbec.jpg');
 }
 
 .tarjetaBackgrounCabernet {
-    background-image: url('../img/Backgroud/backgroundcabernet.jpg');
+    background-image: url('../img/backgroud/backgroundCabernet.jpg');
 }
 
 .tarjetaBackgrounTorrontes {
-    background-image: url('../img/Backgroud/backgroundTorrontes.jpg');
+    background-image: url('../img/backgroud/backgroundTorrontes.jpg');
 }
 
 .tarjetaBackgrounVisita {
-    background-image: url('../img/Backgroud/backgroundVisita.jpg');
+    background-image: url('../img/backgroud/backgroundVisita.jpg');
 }
 
 .tarjetaBackgrounDegustacion {
-    background-image: url('../img/Backgroud/backgroundDegustacion.jpg');
+    background-image: url('../img/backgroud/backgroundDegustacion.jpg');
 }
 
 .tarjetaBackgrounCircuito {
-    background-image: url('../img/Backgroud/backgroundCircuito.jpg');
+    background-image: url('../img/backgroud/backgroundCircuito.jpg');
 }
 
 /*  /Productos Servicios  */
